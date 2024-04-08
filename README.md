@@ -1,4 +1,4 @@
-# Exploring Crisis-Driven Social Media Patterns A Twitter Dataset of UsageDuring the Russo-Ukrainian War (BSc Thesis)
+# Exploring Crisis-Driven Social Media Patterns A Twitter Dataset of Usage During the Russo-Ukrainian War (BSc Thesis)
 
 
 
